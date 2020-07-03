@@ -1,0 +1,19 @@
+
+0	500	bilstm	temporal	swap	1	88.78
+0	500	bilstm	replaceone	homoglyph	1	87.94
+0	charcnn	temporal	remove	1	94.76
+0	500	bilstm	temporal	swap	1	92.56
+0	500	bilstm	temporal	swap	1	93.00
+0	500	bilstm	tail	swap	1	92.92
+0	500	bilstm	combined	swap	1	92.83
+0	500	bilstm	replaceone	swap	1	92.72
+0	charcnn	combined	remove	1	95.00
+0	500	bilstm	combined	homoglyph	1	92.81
+0	500	bilstm	random	swap	1	94.61
+0	500	bilstm	random	homoglyph	1	94.45
+0	500	bilstm	combined	homoglyph	1	93.05
+0	500	bilstm	combined	swap	1	92.99
+0	500	bilstm	random	homoglyph	1	94.90
+0	500	bilstm	random	swap	1	94.94
+0	500	bilstm	combined	homoglyph	1	93.05
+0	500	bilstm	combined	homoglyph	1	92.40
