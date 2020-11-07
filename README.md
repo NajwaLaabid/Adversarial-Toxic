@@ -5,4 +5,4 @@ Toxic language threatens the continuity of online communities as a safe space fo
 
 ## What to expect 
 
-The repository contains a Jupyter Notebook for the experiments (experiments.ipynb), along with the code and data needed to build and train the models (code/), and the final paper presenting the findings (paper.pdf). The code folder is being updated.
+The repository contains a Jupyter Notebook for the experiments (experiments.ipynb), along with the code and data needed to build and train the models (code/). The corresponding paper will be made available shortly.
